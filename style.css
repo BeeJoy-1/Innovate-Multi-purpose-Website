@@ -96,6 +96,7 @@ h1,h2,h3,h4,h5,h6,p {
 .nav__menu {
     width: 60%;
     display: flex;
+    justify-content: center;
 }
 
 .nav__list {
